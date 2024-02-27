@@ -26,8 +26,8 @@ const Home = () => {
             exit="hidden"
             className="h1"
           >
-            Transforming Ideas <br /> Into{" "}
-            <span className="text-accent">Digital Reality</span>
+            Transformando ideias <br /> criativas em{" "}
+            <span className="text-accent">Projetos</span>
           </motion.h1>
           {/* legenda */}
           <motion.p
@@ -37,8 +37,10 @@ const Home = () => {
             exit="hidden"
             className="max-w-sm xl:max-w-xl mx-auto xl:mx-0 mb-10 xl:mb-16"
           >
-            Nada Nada Nada Nada Nada Nada Nada Nada Nada Nada Nada Nada Nada
-            Nada Nada Nada Nada Nada Nada Nada Nada
+            Sempre buscando aprender novas tecnologias. Utilizo da criatividade
+            para criar projetos que fixem e demonstrem o que aprendi ao longo
+            dos meus estudos e da minha carreira. Aproveitar a criatividade para
+            aprender é o que me leva mais longe.
           </motion.p>
           {/* btn */}
           <div className="flex justify-center xl:hidden relative">

@@ -15,12 +15,13 @@ import { FaLinkedin } from "react-icons/fa6";
 
 import { IoLogoGithub } from "react-icons/io";
 
+import { MdEmail } from "react-icons/md";
+
 const socialMediaLinks = [
   {
     icon: <FaLinkedin />,
     href: "https://www.linkedin.com/in/carlos-lacerda-8a762b200/",
   },
-  { icon: <RiFacebookBoxLine />, href: "link-do-facebook" },
   {
     icon: <RiInstagramLine />,
     href: "https://www.instagram.com/carlosedu_ls/",
@@ -29,8 +30,7 @@ const socialMediaLinks = [
     icon: <IoLogoGithub />,
     href: "https://github.com/CarlosEduLacerda",
   },
-  { icon: <RiBehanceLine />, href: "link-do-behance" },
-  { icon: <RiPinterestLine />, href: "link-do-pinterest" },
+  { icon: <MdEmail />, href: "mailto:kdu-lacerda@hotmail.com" },
 ];
 
 const Socials = () => {

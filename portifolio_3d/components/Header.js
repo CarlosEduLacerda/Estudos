@@ -23,7 +23,7 @@ const Header = () => {
             /> */}
             <p className="text-4xl text-white">
               Carlos
-              <span className="text-vermelho_certo font-bold">Lacerda</span>
+              <span className="text-vermelho_certo font-bold"> Lacerda</span>
             </p>
           </Link>
           {/* social */}
