@@ -1,0 +1,43 @@
+.box1 {
+  position: absolute;
+  top: 25%;
+  left: 25%;
+  width: 200px;
+  height: 200px;
+  background-color: red;
+  color: white;
+  z-index: 100;
+  border: 10px solid black;
+  border-radius: 20%;
+  overflow: scroll;
+  text-align: center;
+}
+.box2 {
+  position: absolute;
+  top: 35%;
+  left: 35%;
+  width: 200px;
+  height: 200px;
+  background-color: pink;
+  color: white;
+  z-index: 200;
+  border: 20px dashed grey;
+  border-radius: 10%;
+  overflow: auto;
+  text-align: center;
+}
+.box3 {
+  position: absolute;
+  top: 20%;
+  left: 10%;
+  width: 200px;
+  height: 200px;
+  background-color: green;
+  color: white;
+  z-index: 300;
+  border: 30px dotted yellow;
+  border-radius: 30%;
+  overflow-x: scroll;
+  overflow-y: hidden;
+  text-align: center;
+}
