@@ -1,0 +1,14 @@
+C:\Users\TI\source\repos\Teste-Projeto_POO\Teste-Projeto_POO\bin\Debug\net8.0\Teste-Projeto_POO.exe
+C:\Users\TI\source\repos\Teste-Projeto_POO\Teste-Projeto_POO\bin\Debug\net8.0\Teste-Projeto_POO.deps.json
+C:\Users\TI\source\repos\Teste-Projeto_POO\Teste-Projeto_POO\bin\Debug\net8.0\Teste-Projeto_POO.runtimeconfig.json
+C:\Users\TI\source\repos\Teste-Projeto_POO\Teste-Projeto_POO\bin\Debug\net8.0\Teste-Projeto_POO.dll
+C:\Users\TI\source\repos\Teste-Projeto_POO\Teste-Projeto_POO\bin\Debug\net8.0\Teste-Projeto_POO.pdb
+C:\Users\TI\source\repos\Teste-Projeto_POO\Teste-Projeto_POO\obj\Debug\net8.0\Teste-Projeto_POO.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\TI\source\repos\Teste-Projeto_POO\Teste-Projeto_POO\obj\Debug\net8.0\Teste-Projeto_POO.AssemblyInfoInputs.cache
+C:\Users\TI\source\repos\Teste-Projeto_POO\Teste-Projeto_POO\obj\Debug\net8.0\Teste-Projeto_POO.AssemblyInfo.cs
+C:\Users\TI\source\repos\Teste-Projeto_POO\Teste-Projeto_POO\obj\Debug\net8.0\Teste-Projeto_POO.csproj.CoreCompileInputs.cache
+C:\Users\TI\source\repos\Teste-Projeto_POO\Teste-Projeto_POO\obj\Debug\net8.0\Teste-Projeto_POO.dll
+C:\Users\TI\source\repos\Teste-Projeto_POO\Teste-Projeto_POO\obj\Debug\net8.0\refint\Teste-Projeto_POO.dll
+C:\Users\TI\source\repos\Teste-Projeto_POO\Teste-Projeto_POO\obj\Debug\net8.0\Teste-Projeto_POO.pdb
+C:\Users\TI\source\repos\Teste-Projeto_POO\Teste-Projeto_POO\obj\Debug\net8.0\Teste-Projeto_POO.genruntimeconfig.cache
+C:\Users\TI\source\repos\Teste-Projeto_POO\Teste-Projeto_POO\obj\Debug\net8.0\ref\Teste-Projeto_POO.dll

@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "Teste-Projeto_POO/1.0.0": {
+        "runtime": {
+          "Teste-Projeto_POO.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Teste-Projeto_POO/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

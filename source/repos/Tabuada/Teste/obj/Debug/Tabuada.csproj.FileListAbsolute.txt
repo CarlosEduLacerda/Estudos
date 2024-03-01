@@ -1,0 +1,7 @@
+C:\Users\TI\source\repos\Tabuada\Teste\bin\Debug\Teste.exe.config
+C:\Users\TI\source\repos\Tabuada\Teste\bin\Debug\Teste.exe
+C:\Users\TI\source\repos\Tabuada\Teste\bin\Debug\Teste.pdb
+C:\Users\TI\source\repos\Tabuada\Teste\obj\Debug\Tabuada.csproj.AssemblyReference.cache
+C:\Users\TI\source\repos\Tabuada\Teste\obj\Debug\Tabuada.csproj.CoreCompileInputs.cache
+C:\Users\TI\source\repos\Tabuada\Teste\obj\Debug\Teste.exe
+C:\Users\TI\source\repos\Tabuada\Teste\obj\Debug\Teste.pdb

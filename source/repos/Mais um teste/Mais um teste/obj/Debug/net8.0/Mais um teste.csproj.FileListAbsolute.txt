@@ -1,0 +1,30 @@
+C:\Users\TI\source\repos\Mais um teste\Mais um teste\bin\Debug\net8.0\appsettings.Development.json
+C:\Users\TI\source\repos\Mais um teste\Mais um teste\bin\Debug\net8.0\appsettings.json
+C:\Users\TI\source\repos\Mais um teste\Mais um teste\bin\Debug\net8.0\Mais um teste.staticwebassets.runtime.json
+C:\Users\TI\source\repos\Mais um teste\Mais um teste\bin\Debug\net8.0\Mais um teste.exe
+C:\Users\TI\source\repos\Mais um teste\Mais um teste\bin\Debug\net8.0\Mais um teste.deps.json
+C:\Users\TI\source\repos\Mais um teste\Mais um teste\bin\Debug\net8.0\Mais um teste.runtimeconfig.json
+C:\Users\TI\source\repos\Mais um teste\Mais um teste\bin\Debug\net8.0\Mais um teste.dll
+C:\Users\TI\source\repos\Mais um teste\Mais um teste\bin\Debug\net8.0\Mais um teste.pdb
+C:\Users\TI\source\repos\Mais um teste\Mais um teste\obj\Debug\net8.0\Mais um teste.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\TI\source\repos\Mais um teste\Mais um teste\obj\Debug\net8.0\Mais um teste.AssemblyInfoInputs.cache
+C:\Users\TI\source\repos\Mais um teste\Mais um teste\obj\Debug\net8.0\Mais um teste.AssemblyInfo.cs
+C:\Users\TI\source\repos\Mais um teste\Mais um teste\obj\Debug\net8.0\Mais um teste.csproj.CoreCompileInputs.cache
+C:\Users\TI\source\repos\Mais um teste\Mais um teste\obj\Debug\net8.0\Mais um teste.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\TI\source\repos\Mais um teste\Mais um teste\obj\Debug\net8.0\Mais um teste.RazorAssemblyInfo.cache
+C:\Users\TI\source\repos\Mais um teste\Mais um teste\obj\Debug\net8.0\Mais um teste.RazorAssemblyInfo.cs
+C:\Users\TI\source\repos\Mais um teste\Mais um teste\obj\Debug\net8.0\staticwebassets.build.json
+C:\Users\TI\source\repos\Mais um teste\Mais um teste\obj\Debug\net8.0\staticwebassets.development.json
+C:\Users\TI\source\repos\Mais um teste\Mais um teste\obj\Debug\net8.0\staticwebassets\msbuild.Mais um teste.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\TI\source\repos\Mais um teste\Mais um teste\obj\Debug\net8.0\staticwebassets\msbuild.build.Mais um teste.props
+C:\Users\TI\source\repos\Mais um teste\Mais um teste\obj\Debug\net8.0\staticwebassets\msbuild.buildMultiTargeting.Mais um teste.props
+C:\Users\TI\source\repos\Mais um teste\Mais um teste\obj\Debug\net8.0\staticwebassets\msbuild.buildTransitive.Mais um teste.props
+C:\Users\TI\source\repos\Mais um teste\Mais um teste\obj\Debug\net8.0\staticwebassets.pack.json
+C:\Users\TI\source\repos\Mais um teste\Mais um teste\obj\Debug\net8.0\scopedcss\Views\Shared\_Layout.cshtml.rz.scp.css
+C:\Users\TI\source\repos\Mais um teste\Mais um teste\obj\Debug\net8.0\scopedcss\bundle\Mais um teste.styles.css
+C:\Users\TI\source\repos\Mais um teste\Mais um teste\obj\Debug\net8.0\scopedcss\projectbundle\Mais um teste.bundle.scp.css
+C:\Users\TI\source\repos\Mais um teste\Mais um teste\obj\Debug\net8.0\Mais um teste.dll
+C:\Users\TI\source\repos\Mais um teste\Mais um teste\obj\Debug\net8.0\refint\Mais um teste.dll
+C:\Users\TI\source\repos\Mais um teste\Mais um teste\obj\Debug\net8.0\Mais um teste.pdb
+C:\Users\TI\source\repos\Mais um teste\Mais um teste\obj\Debug\net8.0\Mais um teste.genruntimeconfig.cache
+C:\Users\TI\source\repos\Mais um teste\Mais um teste\obj\Debug\net8.0\ref\Mais um teste.dll

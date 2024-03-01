@@ -1,0 +1,14 @@
+C:\Users\TI\source\repos\Conceitos Básicos C#\Conceitos Básicos C#\bin\Debug\net8.0\Conceitos Básicos C#.exe
+C:\Users\TI\source\repos\Conceitos Básicos C#\Conceitos Básicos C#\bin\Debug\net8.0\Conceitos Básicos C#.deps.json
+C:\Users\TI\source\repos\Conceitos Básicos C#\Conceitos Básicos C#\bin\Debug\net8.0\Conceitos Básicos C#.runtimeconfig.json
+C:\Users\TI\source\repos\Conceitos Básicos C#\Conceitos Básicos C#\bin\Debug\net8.0\Conceitos Básicos C#.dll
+C:\Users\TI\source\repos\Conceitos Básicos C#\Conceitos Básicos C#\bin\Debug\net8.0\Conceitos Básicos C#.pdb
+C:\Users\TI\source\repos\Conceitos Básicos C#\Conceitos Básicos C#\obj\Debug\net8.0\Conceitos Básicos C#.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\TI\source\repos\Conceitos Básicos C#\Conceitos Básicos C#\obj\Debug\net8.0\Conceitos Básicos C#.AssemblyInfoInputs.cache
+C:\Users\TI\source\repos\Conceitos Básicos C#\Conceitos Básicos C#\obj\Debug\net8.0\Conceitos Básicos C#.AssemblyInfo.cs
+C:\Users\TI\source\repos\Conceitos Básicos C#\Conceitos Básicos C#\obj\Debug\net8.0\Conceitos Básicos C#.csproj.CoreCompileInputs.cache
+C:\Users\TI\source\repos\Conceitos Básicos C#\Conceitos Básicos C#\obj\Debug\net8.0\Conceitos Básicos C#.dll
+C:\Users\TI\source\repos\Conceitos Básicos C#\Conceitos Básicos C#\obj\Debug\net8.0\refint\Conceitos Básicos C#.dll
+C:\Users\TI\source\repos\Conceitos Básicos C#\Conceitos Básicos C#\obj\Debug\net8.0\Conceitos Básicos C#.pdb
+C:\Users\TI\source\repos\Conceitos Básicos C#\Conceitos Básicos C#\obj\Debug\net8.0\Conceitos Básicos C#.genruntimeconfig.cache
+C:\Users\TI\source\repos\Conceitos Básicos C#\Conceitos Básicos C#\obj\Debug\net8.0\ref\Conceitos Básicos C#.dll

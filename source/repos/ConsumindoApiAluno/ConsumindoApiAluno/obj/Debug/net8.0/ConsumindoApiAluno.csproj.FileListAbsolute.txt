@@ -1,0 +1,17 @@
+C:\Users\TI\source\repos\ConsumindoApiAluno\ConsumindoApiAluno\bin\Debug\net8.0\ConsumindoApiAluno.exe
+C:\Users\TI\source\repos\ConsumindoApiAluno\ConsumindoApiAluno\bin\Debug\net8.0\ConsumindoApiAluno.deps.json
+C:\Users\TI\source\repos\ConsumindoApiAluno\ConsumindoApiAluno\bin\Debug\net8.0\ConsumindoApiAluno.runtimeconfig.json
+C:\Users\TI\source\repos\ConsumindoApiAluno\ConsumindoApiAluno\bin\Debug\net8.0\ConsumindoApiAluno.dll
+C:\Users\TI\source\repos\ConsumindoApiAluno\ConsumindoApiAluno\bin\Debug\net8.0\ConsumindoApiAluno.pdb
+C:\Users\TI\source\repos\ConsumindoApiAluno\ConsumindoApiAluno\obj\Debug\net8.0\ConsumindoApiAluno.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\TI\source\repos\ConsumindoApiAluno\ConsumindoApiAluno\obj\Debug\net8.0\ConsumindoApiAluno.AssemblyInfoInputs.cache
+C:\Users\TI\source\repos\ConsumindoApiAluno\ConsumindoApiAluno\obj\Debug\net8.0\ConsumindoApiAluno.AssemblyInfo.cs
+C:\Users\TI\source\repos\ConsumindoApiAluno\ConsumindoApiAluno\obj\Debug\net8.0\ConsumindoApiAluno.csproj.CoreCompileInputs.cache
+C:\Users\TI\source\repos\ConsumindoApiAluno\ConsumindoApiAluno\obj\Debug\net8.0\ConsumindoApiAluno.dll
+C:\Users\TI\source\repos\ConsumindoApiAluno\ConsumindoApiAluno\obj\Debug\net8.0\refint\ConsumindoApiAluno.dll
+C:\Users\TI\source\repos\ConsumindoApiAluno\ConsumindoApiAluno\obj\Debug\net8.0\ConsumindoApiAluno.pdb
+C:\Users\TI\source\repos\ConsumindoApiAluno\ConsumindoApiAluno\obj\Debug\net8.0\ConsumindoApiAluno.genruntimeconfig.cache
+C:\Users\TI\source\repos\ConsumindoApiAluno\ConsumindoApiAluno\obj\Debug\net8.0\ref\ConsumindoApiAluno.dll
+C:\Users\TI\source\repos\ConsumindoApiAluno\ConsumindoApiAluno\bin\Debug\net8.0\Newtonsoft.Json.dll
+C:\Users\TI\source\repos\ConsumindoApiAluno\ConsumindoApiAluno\obj\Debug\net8.0\ConsumindoApiAluno.csproj.AssemblyReference.cache
+C:\Users\TI\source\repos\ConsumindoApiAluno\ConsumindoApiAluno\obj\Debug\net8.0\ConsumindoApiAluno.csproj.CopyComplete
