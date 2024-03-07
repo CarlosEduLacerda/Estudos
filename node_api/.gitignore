@@ -1,4 +1,0 @@
-postgresql://carlos.lacerda:ZW9ER5vtoXdT@ep-empty-art-a5wfhv2z.us-east-2.aws.neon.tech/node-api?sslmode=require
-
-node_modules
-.env
