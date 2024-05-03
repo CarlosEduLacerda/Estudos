@@ -1,0 +1,6 @@
+botcity-framework-web>=0.7.0,<1.0
+botcity-maestro-sdk>=0.2.0,<1.0
+botcity-utils>=0.1.2
+botcity-excel-plugin>=0.1.7
+# Uncomment to use botcity-crawler-plugin
+#botcity-crawler-plugin

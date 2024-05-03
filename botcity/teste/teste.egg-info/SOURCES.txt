@@ -1,0 +1,14 @@
+MANIFEST.in
+README.md
+VERSION
+requirements.txt
+setup.py
+teste/__init__.py
+teste/__main__.py
+teste/bot.py
+teste.egg-info/PKG-INFO
+teste.egg-info/SOURCES.txt
+teste.egg-info/dependency_links.txt
+teste.egg-info/requires.txt
+teste.egg-info/top_level.txt
+teste/resources/start.png

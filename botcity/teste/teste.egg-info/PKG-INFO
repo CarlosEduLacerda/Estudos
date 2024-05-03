@@ -1,0 +1,12 @@
+Metadata-Version: 2.1
+Name: teste
+Version: 1.0
+Summary: primeiro projeto
+Description-Content-Type: text/markdown
+Requires-Dist: botcity-framework-core<1.0,>=0.4.0
+Requires-Dist: botcity-maestro-sdk<1.0,>=0.2.0
+
+# teste
+
+primeiro projeto
+
